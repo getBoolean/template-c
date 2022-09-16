@@ -1,0 +1,22 @@
+{
+    "configurations": [
+      {
+        "name": "linux-gcc-x64",
+        "includePath": [
+          "${workspaceFolder}/**"
+        ],
+        "compilerPath": "/usr/bin/gcc",
+        "cStandard": "${default}",
+        "cppStandard": "${default}",
+        "intelliSenseMode": "linux-gcc-x64",
+        "warnings": [
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "-fsanitize=address"
+        ],
+        "compilerArgs": ["-fsanitize=address", "-Wall", "-Wextra"]
+      }
+    ],
+    "version": 4
+  }
