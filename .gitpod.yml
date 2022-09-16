@@ -7,4 +7,5 @@ tasks:
       make help
 vscode:
   extensions:
-    - ms-vscode.cpptools
+    - llvm-vs-code-extensions.vscode-clangd
+    - franneck94.c-cpp-runner
