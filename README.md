@@ -4,7 +4,7 @@ This is a [C](https://en.wikipedia.org/wiki/The_C_Programming_Language) template
 
 ## Next Steps
 
-Click the button below to start a new development environment:
+Click the button below to start a new development environment: (Note, make sure to update this link to your repo)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-c)
 
